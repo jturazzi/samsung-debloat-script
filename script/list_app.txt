@@ -7,7 +7,6 @@ com.android.apps.tag
 com.android.backupconfirm
 com.android.bips
 com.android.bookmarkprovider
-com.android.chrome
 com.android.dreams.basic
 com.android.dreams.phototable
 com.android.email
@@ -78,13 +77,6 @@ com.hancom.office.editor.hidden
 com.imdb.mobile
 com.infraware.polarisoffice5
 com.linkedin.android
-com.microsoft.appmanager
-com.microsoft.office.excel
-com.microsoft.office.officehubrow
-com.microsoft.office.outlook
-com.microsoft.office.powerpoint
-com.microsoft.office.word
-com.microsoft.skydrive
 com.mobeam.barcodeService
 com.monotype.android.font.chococooky
 com.monotype.android.font.cooljazz
@@ -381,3 +373,5 @@ com.tv.peel.samsung.app
 com.vlingo.midas
 com.wssnps
 com.yelp.android.samsungedge
+com.instagram.android
+com.samsung.ecomm.global.gbr
